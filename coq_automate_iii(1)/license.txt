@@ -1,0 +1,11 @@
+Model Information:
+* title:	Coq Automate III
+* source:	https://sketchfab.com/3d-models/coq-automate-iii-a88e70ded0be442ca999602f391b51c0
+* author:	jeronimovoss (https://sketchfab.com/jeronimovoss)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Coq Automate III" (https://sketchfab.com/3d-models/coq-automate-iii-a88e70ded0be442ca999602f391b51c0) by jeronimovoss (https://sketchfab.com/jeronimovoss) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
